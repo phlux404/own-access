@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Play triangle + broadcast arcs, drawn inside the adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M32,34 L32,74 L62,54 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M63.3,36.6 A26,26 0 0 1 63.3,71.4"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M70.7,29.9 A36,36 0 0 1 70.7,78.1"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round" />
+</vector>
